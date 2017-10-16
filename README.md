@@ -1,8 +1,11 @@
 # Useful-links
-Alguns links uteis
+Alguns links uteis para começar e tirar duvidas.
 
+Official doc, Ruby in 20 minutes
 https://www.ruby-lang.org/pt/documentation/quickstart/
 
+Guide to start on rails. Refs, gems, etc.
 http://onebitcode.com/guia-para-iniciar-no-mundo-do-ruby-on-rails/
 
+**Ruby Guides.**
 http://guides.rubyonrails.org
