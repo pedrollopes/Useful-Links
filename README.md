@@ -9,3 +9,6 @@ http://onebitcode.com/guia-para-iniciar-no-mundo-do-ruby-on-rails/
 
 **Ruby Guides.**
 http://guides.rubyonrails.org
+
+Pry
+https://www.sitepoint.com/rubyists-time-pry-irb/
