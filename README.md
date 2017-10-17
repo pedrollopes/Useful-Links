@@ -12,3 +12,6 @@ http://guides.rubyonrails.org
 
 Pry
 https://www.sitepoint.com/rubyists-time-pry-irb/
+
+I18n
+http://guides.rubyonrails.org/i18n.html
